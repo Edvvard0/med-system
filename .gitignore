@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+.git_root/
+app/static/qr_code/*
+app/static/voice_comment/*
+app/static/photo/*
+!app/static/*/.gitkeep
